@@ -32,6 +32,7 @@ body {
   min-height: 100vh;
   position: relative;
   font-family: 'Montserrat', sans-serif;
+  cursor: none;
 }
 .container, .container-fluid {
   position: relative;

@@ -16,7 +16,7 @@ tl.from(".BP",{
   stagger:.2,
   opacity:0,
   y:-50,
-  delay:50
+  immediateRender:true
 })
   .from(".line1",{
   drawSVG:0,
